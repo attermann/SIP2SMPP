@@ -10,7 +10,7 @@ Version 0.2.0
 
   First, you need to install all dependencies :
 
-  apt-get install sqlite3 libsqlite3-dev libsqlite3-0 libdbd-sqlite3
+  apt-get install sqlite3 libsqlite3-dev libsqlite3-0 libdbd-sqlite3 libxml2-dev
   
   After you have to install the libraries libsmpp34, libiconv and libzdb v3.0 :
 
